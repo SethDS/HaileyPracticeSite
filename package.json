@@ -1,0 +1,24 @@
+{
+  "name": "haileypracticesite",
+  "version": "1.0.0",
+  "description": "Practice site for Haileys photography website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SethDS/HaileyPracticeSite.git"
+  },
+  "author": "Seth Sutherland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SethDS/HaileyPracticeSite/issues"
+  },
+  "homepage": "https://github.com/SethDS/HaileyPracticeSite#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
